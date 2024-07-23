@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecipeFinder</string>
+    <string-array name="cuisines">
+        <item>Italian</item>
+        <item>Chinese</item>
+        <item>Mexican</item>
+        <item>Indian</item>
+        <item>French</item>
+        <item>Japanese</item>
+    </string-array>
+</resources>
